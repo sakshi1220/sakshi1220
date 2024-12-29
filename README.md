@@ -3,7 +3,7 @@
 
 🌟 About Me
 
-Hi, I'm [Your Name], a passionate Software Development Engineer specializing in React and Java with over 5 years of experience crafting intuitive, scalable, and high-performance web applications.
+Hi, I'm Sakshi Sharma, a passionate Software Development Engineer specializing in React and Java with over 5 years of experience crafting intuitive, scalable, and high-performance web applications.
 
 💻 What I Do
 
