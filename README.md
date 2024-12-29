@@ -19,6 +19,7 @@ Java, Spring Framework, RESTful APIs
 HTML5, CSS3, SCSS
 Git, CI/CD, Agile Development
 📈 Goals
+
 I'm driven to innovate and collaborate on projects that make an impact. I aim to leverage my skills to develop seamless user experiences and contribute to meaningful software solutions.
 
 📫 Connect with Me
