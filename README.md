@@ -7,17 +7,21 @@ Hi, I'm Sakshi Sharma, a passionate Software Development Engineer specializing i
 
 💻 What I Do
 
-Front-End Development: Building responsive and user-friendly interfaces using React, SwiperJS, and modern JavaScript frameworks.
+Front-End Development: Building responsive and user-friendly interfaces using modern JavaScript frameworks like React.
 
 Back-End Development: Designing robust APIs and back-end services with Java, Spring Boot, and related technologies.
 
 Code Optimization: Delivering clean, maintainable, and efficient code that adheres to industry best practices.
+
+
 🚀 Skills & Expertise
 
 React, Redux, TypeScript, JavaScript (ES6+)
 Java, Spring Framework, RESTful APIs
 HTML5, CSS3, SCSS
 Git, CI/CD, Agile Development
+
+
 📈 Goals
 
 I'm driven to innovate and collaborate on projects that make an impact. I aim to leverage my skills to develop seamless user experiences and contribute to meaningful software solutions.
